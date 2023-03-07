@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "plexus-mobile",
+    "slug": "plexus-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.aschulte.plexus-mobile"
+    }
+  }
+}

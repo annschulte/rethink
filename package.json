@@ -1,0 +1,45 @@
+{
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@expo-google-fonts/mulish": "^0.2.2",
+    "@react-native-aria/utils": "^0.2.8",
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.2",
+    "@realm/react": "^0.1.0",
+    "expo": "^44.0.6",
+    "expo-dev-client": "~0.8.5",
+    "expo-font": "~10.0.4",
+    "expo-splash-screen": "~0.14.2",
+    "expo-status-bar": "~1.2.0",
+    "expo-updates": "~0.11.7",
+    "native-base": "^3.4.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-get-random-values": "~1.7.2",
+    "react-native-paper": "^4.12.1",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-svg": "12.1.1",
+    "react-native-web": "0.17.1",
+    "realm": "^10.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12",
+    "typescript": "~4.3.5"
+  },
+  "resolutions": {
+    "@types/react": "~17.0.21",
+    "@react-native-masked-view/masked-view": "0.2.6"
+  },
+  "name": "plexus-mobile",
+  "version": "1.0.0",
+  "private": true
+}
